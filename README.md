@@ -8,4 +8,4 @@ Hangman is a guessing game for two or more players. One player thinks of a word,
 
 ### Play
 
-[Play here](https://replit.com/@AbdEl-Rahman21/odin-hangman)
+[Play here](https://replit.com/@AbdEl-Rahman21/Hangman)
